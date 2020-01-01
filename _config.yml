@@ -23,7 +23,7 @@ github: howwwwwhy # Add your Github handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: # Add your discus identifier
+discus_identifier: howwwwwhy-blog # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
