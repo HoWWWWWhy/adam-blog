@@ -919,7 +919,7 @@ pre code {
 
 .main-header .logo a {
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 27px;
   font-weight: 300;
   color: #311e3e;
