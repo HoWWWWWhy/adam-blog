@@ -4,7 +4,6 @@ title:  Heartwarming privacy
 date:   2020-06-20
 description: Heartwaring app privacy policy
 img: Heartwarming_playstore_graphic.png
-tags: [privacy]
 ---
 
 
