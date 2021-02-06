@@ -7,6 +7,8 @@
 
 [Heartwarming_Add](heartwarming:///add/abc)
 
+[Heartwarming_Add2](heartwarming:///add/abc/def)
+
 [Heartwarming_Setting](heartwarming://setting)
 ```
 console.log("hello everyone")
