@@ -3,7 +3,7 @@
 
 [Google](https://google.com)
 
-[Heartwarming](heartwarming://home)
+[Heartwarming](heartwarming://home/Setting)
 
 ```
 console.log("hello everyone")
