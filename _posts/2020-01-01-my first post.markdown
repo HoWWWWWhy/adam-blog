@@ -3,11 +3,11 @@
 
 [Google](https://google.com)
 
-[Heartwarming](heartwarming://setting)
+[Heartwarming](heartwarming://)
 
-[Heartwarming_Add](heartwarming://home/add/abc)
+[Heartwarming_Add](heartwarming:///add/abc)
 
-[Heartwarming_Setting](heartwarming://home/setting)
+[Heartwarming_Setting](heartwarming://setting)
 ```
 console.log("hello everyone")
 ```
