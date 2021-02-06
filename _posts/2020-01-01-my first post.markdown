@@ -10,6 +10,8 @@
 [Heartwarming_Add2](heartwarming:///add/abc/def)
 
 [Heartwarming_Setting](heartwarming://setting)
+
+[Heartwarming_HomeSetting](heartwarming://home/setting)
 ```
 console.log("hello everyone")
 ```
