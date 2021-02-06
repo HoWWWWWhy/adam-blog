@@ -4,7 +4,7 @@
 [Google](https://google.com)
 
 [Heartwarming](heartwarming://setting)
-[Heartwarming_Add](heartwarming://add/abc)
+[Heartwarming_Add](heartwarming://home/add/abc)
 
 ```
 console.log("hello everyone")
