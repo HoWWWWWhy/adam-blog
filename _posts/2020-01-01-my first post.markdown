@@ -3,7 +3,7 @@
 
 [Google](https://google.com)
 
-[Heartwarming](app://heartwarming)
+[Heartwarming](heartwarming://home)
 
 ```
 console.log("hello everyone")
