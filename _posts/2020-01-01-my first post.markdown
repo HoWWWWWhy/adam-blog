@@ -7,7 +7,7 @@
 
 [Heartwarming_Add](heartwarming:///add/abc)
 
-[Heartwarming_Add2](heartwarming:///add/abc/def)
+[Heartwarming_Add2](heartwarming:///add/link/abc/def)
 
 [Heartwarming_Setting](heartwarming://setting)
 
